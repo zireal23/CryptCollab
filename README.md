@@ -1,5 +1,5 @@
 ## End-to-End Encrypted Collaboration System
-
+![System Image](cryptCollab.png)
 Welcome to the README file for the end-to-end encrypted collaboration system! This system is designed to provide a secure environment for collaborative document editing, similar to Google Docs, while leveraging the security of WhatsApp. Below you will find important information about the system, its architecture, and the key technologies used in its development.
 
 ### Overview
